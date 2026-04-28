@@ -1,24 +1,2 @@
 Comandos
-Ls (para conocer la lista de archivos y carpetas del directorio donde estoy).
-Pws (para saber en qué carpeta estoy).
-Cd y el nombre de la carpeta para ingresar a una carpeta en específico.
-Cd .. me permite regresar al directorio anterior.
-Mkdir y el nombre de la carpeta para crear un directorio nuevo.
-Git init para iniciar un nuevo repositorio
-Ls -a muestra los archivos que se encuentren ocultos.
-Git status se encarga de mostrar los archivos que estemos trabajando, avisa los cambios que se hayan realizado. Y los archivos que se hayan modificado
-(los archivos que aparezcan en verde indica que ya están en la etapa de stage y el archivo de color rojo indica que no se ha agregado) se pueden agregar si sin varios archivos separados de un espacio.
-
-
-________________________________________________________________________________
-Etapas del proceso de un repositorio con git add
-Computador	stage	commit	sever
-Se encuentran todos los archivos y carpetas
-	Aquí pasan los que nosotros enviemos bajo el comando de add	Aquí pasan los que hayamos enviado bajo el comando git commit	Aquí pasan los que hayamos almacenado en la nube
-
-Git add “el nombre del archivo con la extensión sin comillas” para agregar al stage.
-Code . abre el lector de código en este caso vs code tener en cuenta escribirlo exactamente así (code espacio y “.”)
-•	git add .: Añade todos los archivos modificados.
-
-Git commit -m “el nombre de la indicación” indican que hay todos los archivos que estaban en stage pasarán a ser agregados al commit (tercera etapa).
-Git commit y enter (abre el editor de texto en mi caso vs code indicando la modificación de un archivo y un espacio en la parte alta para escribir alguna indicación ejemplo “agregando nuevo nombre”) acontinuacion guardar y cerrar y en la terminal de git bash aparecerá la modificación realizada.
+estan escritos en el archivo de word
